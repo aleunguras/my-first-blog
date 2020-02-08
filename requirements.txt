@@ -1,0 +1,5 @@
+Django~=2.2.4
+print('Hello, Django girls!')
+participant={'name':'Alex','country':'Roumania','favourite_numbers':[12,5,8],'age': 32}
+len(participant)
+print(participant)
